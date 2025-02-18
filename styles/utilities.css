@@ -21,3 +21,30 @@
 .padding-0-5 {
     padding: 0.5rem;
 }
+
+.highlight-color-list {
+    color: #161616fd;
+    font-weight: 400;
+}
+
+.padding-4-lados {
+    padding: 1rem;
+}
+
+.border-bottom {
+    display: block;
+    margin-top: 2rem;
+    border: 0.2px solid #80808027;
+}
+
+.margin-bottom-1rem {
+    margin-bottom: 1rem;
+}
+
+.font-size-1-7 {
+    font-size: 1.7rem;
+}
+
+.color-h2 {
+    color: #5a1717d0;
+}
