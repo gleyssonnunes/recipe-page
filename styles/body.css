@@ -1,0 +1,7 @@
+/*Para Computadores*/
+@media (min-width: 1024px) {
+    body {
+        background-color: white;
+        border-radius: 1rem;
+    }
+}

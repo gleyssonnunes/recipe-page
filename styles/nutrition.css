@@ -2,3 +2,15 @@
     display: flex;
     justify-content: space-around;
 }
+
+/*Para Computadores*/
+@media (min-width: 1024px) {
+    .nutrition {
+        font-size: 2.7rem;
+    }
+
+    .width-70,
+    .nutritional-container {
+        width: 70%;
+    }
+}

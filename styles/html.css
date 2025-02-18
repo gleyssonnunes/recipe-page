@@ -1,0 +1,7 @@
+/*Para Computadores*/
+@media (min-width: 1024px) {
+    html {
+        margin: 3rem 10rem;
+        background-color: #f3e8db;
+    }
+}

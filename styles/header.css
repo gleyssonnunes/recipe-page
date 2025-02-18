@@ -10,3 +10,21 @@ h1 {
 .paragraph {
     margin: 0 3rem;
 }
+
+/* Para Computadores */
+@media (min-width: 1024px) {
+    img {
+        padding: 1rem;
+        border-radius: 2rem;
+    }
+
+    h1 {
+        font-size: 3rem;
+    }
+
+    .paragraph {
+        margin: 0 auto;
+        width: 40rem;
+        font-size: 2.3rem;
+    }
+}
