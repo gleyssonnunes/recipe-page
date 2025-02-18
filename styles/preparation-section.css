@@ -1,0 +1,21 @@
+.preparation-section {
+    background-color: #f3d9dd25;
+    border-radius: 0.5rem;
+    padding: 1rem;
+}
+
+.preparation-time {
+    margin-bottom: 1rem;
+    color: purple;
+    font-size: 1.5rem;
+    font-weight: 600;
+}
+
+.preparation-list > li::marker {
+    color: purple;
+    font-size: 1rem;
+}
+
+.preparation-list-item {
+    padding: 0.5rem;
+}

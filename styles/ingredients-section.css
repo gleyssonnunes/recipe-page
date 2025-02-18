@@ -1,0 +1,14 @@
+.ingredients-section {
+    padding: 1rem;
+}
+
+.ingredients {
+    margin-bottom: 1rem;
+    font-size: 1.7rem;
+    color: #5a1717d0;
+}
+
+.ingredients-list > li::marker {
+    color: #5a1717d0;
+    font-size: 1rem;
+}
